@@ -1,0 +1,9 @@
+We should start with simple coding.
+
+1. Draw something, create png and generate code which generates a program
+equivalent of the png.
+
+Inspiration: https://github.com/tonybeltramelli/pix2code
+
+2. Some old papers
+	https://www.sciencedirect.com/science/article/pii/S0747717185800109

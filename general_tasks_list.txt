@@ -1,0 +1,13 @@
+1. End to end configuration.
+  a. AngularJS
+  b. NodeJS
+  c. python Django
+  d. tkinter
+  e. ReactJS
+  f. C++
+  g. Big Data using Python
+  h. Angular
+2. Generate nested Python class
+3. Generate a Python generator
+4. Generate a Python decorator
+5. Generate a sample Angular project
